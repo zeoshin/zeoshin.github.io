@@ -17,7 +17,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-[269.Alien Dictionary](https://zeoshin.github.io/leetcode/269_Alien_Dictionary)
 
 1. Numbered
 2. List
@@ -28,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[269.Alien Dictionary](https://zeoshin.github.io/leetcode/269_Alien_Dictionary)
 
 ### Jekyll Themes
 
