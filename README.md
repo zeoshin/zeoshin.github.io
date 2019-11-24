@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+[269.Alien Dictionary](https://zeoshin.github.io/leetcode/269_Alien_Dictionary)
 
 1. Numbered
 2. List
