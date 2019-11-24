@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[269.Alien Dictionary](https://zeoshin.github.io/leetcode/269_Alien_Dictionary)
+[LeetCode Solutions](https://zeoshin.github.io/leetcode/)
 
 ### Jekyll Themes
 
